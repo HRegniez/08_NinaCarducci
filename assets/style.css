@@ -81,6 +81,7 @@ body {
 }
 .about-me__introduction {
 	font-family: 'Spectral';
+	font-size: 0.95rem;
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
@@ -147,7 +148,9 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-
+	font-size: 1.95rem;
+	line-height: 1.2;
+	letter-spacing: 0.05rem;
 }
 .quote__author {
 	font-family: Spectral;
@@ -295,7 +298,7 @@ input[type="submit"] {
 	}
 
 	#services .container::before{
-		width: 30%;
+		width: 20%;
 		height: 100%;
 		bottom: 0;
 		right: 0;
@@ -338,6 +341,9 @@ input[type="submit"] {
 	}
 	#services .container {
 		align-items: center;
+	}
+	#services .container::before {
+		width: 8%;
 	}
 	.service {
 		max-width: 90%;

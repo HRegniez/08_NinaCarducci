@@ -1,3 +1,6 @@
+
+# Technical SEO
+
 lang fr => <html>
 head title
 meta descritpion
@@ -7,6 +10,24 @@ alts sur photos
 form labels
 nav portfollio contrast fix
 
+<!-- Img sizes -->
+<!-- img formats -->
 
-Img sizes
-img formats
+# Natural SEO
+
+## keywords implication
+
+photographe => h1
+entreprise => 2 * img tags
+mariage => 2 * img tags
+concerts => 2 * img tags
+album photo => meta
+montage photo 
+retouches photo => meta + h3
+galerie photo 
+portrait photo => 2 * img tags
+photographe professionnel => meta
+photographe artistique => 1 * img alt
+services photographiques => replaces the <h2> Mes services <h2> (?)
+gallerie photo => added to <h3> Portfollio <h3>
+
