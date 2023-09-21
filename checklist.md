@@ -9,6 +9,7 @@ h tags
 alts sur photos
 form labels
 nav portfollio contrast fix
+defer js scripts
 
 <!-- Img sizes -->
 <!-- img formats -->
