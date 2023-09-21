@@ -4,12 +4,15 @@
 lang fr => <html>
 head title
 meta descritpion
+meta viewport
+meta charset
 balises semantiques
 h tags
 alts sur photos
 form labels
 nav portfollio contrast fix
 defer js scripts
+minimized minimizable
 
 <!-- Img sizes -->
 <!-- img formats -->
