@@ -14,8 +14,13 @@ nav portfollio contrast fix
 defer js scripts
 minimized minimizable
 
-<!-- Img sizes -->
-<!-- img formats -->
+Img sizes 
+img formats
+RICH SNIPETS FOR LOCALIZATION <!--?????-->
+
+meta open graph for social networks
+
+<!-- twitter cards -->
 
 # Natural SEO
 
