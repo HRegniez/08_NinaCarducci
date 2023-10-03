@@ -20,6 +20,9 @@ RICH SNIPETS FOR LOCALIZATION <!--?????-->
 
 meta open graph for social networks
 
+cache => 3 months
+Bootstrap changed to CDN
+
 <!-- twitter cards -->
 
 # Natural SEO
