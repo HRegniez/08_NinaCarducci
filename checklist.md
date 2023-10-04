@@ -1,33 +1,28 @@
 
 # Technical SEO
 
-lang fr => <html>
-head title
-meta descritpion
-meta viewport
-meta charset
-balises semantiques
-h tags
-alts sur photos
-form labels
-nav portfollio contrast fix
-defer js scripts
-minimized minimizable
-
 Img sizes 
 img formats
-RICH SNIPETS FOR LOCALIZATION <!--?????-->
-
-meta open graph for social networks
-
-cache => 1 year
+defer js scripts + brought to bottom of script
+minimized minimizable
+import fonts from style sheet
+cache => 1 month
 Bootstrap changed to CDN
 
-<!-- twitter cards -->
+# accesibility
+
+lang fr => <html>
+alts sur photos
+head title
+instagram link fixed => alt to describe what the img is
+form labels
+h tags reorder
+nav portfollio contrast fix
+
+
+
 
 # Natural SEO
-
-## keywords implication
 
 photographe => h1
 entreprise => 2 * img tags
@@ -42,4 +37,16 @@ photographe professionnel => meta
 photographe artistique => 1 * img alt
 services photographiques => replaces the <h2> Mes services <h2> (?)
 gallerie photo => added to <h3> Portfollio <h3>
+
+# SEO
+
+balises semantiques
+meta descritpion
+meta viewport
+meta charset
+RICH SNIPETS FOR LOCALIZATION 
+meta open graph for social networks
+twitter cards
+
+
 
