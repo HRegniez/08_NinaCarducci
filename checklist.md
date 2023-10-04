@@ -20,7 +20,7 @@ RICH SNIPETS FOR LOCALIZATION <!--?????-->
 
 meta open graph for social networks
 
-cache => 3 months
+cache => 1 year
 Bootstrap changed to CDN
 
 <!-- twitter cards -->
