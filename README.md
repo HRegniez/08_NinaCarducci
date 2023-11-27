@@ -18,21 +18,21 @@ Artist's Website where te task was to improve loading time and it's SEO. This pr
 
 ## Overview
 
+In this project I was tasked to improve the artist Nina Carducci's weeb-site. Her web-site had important loading times and needed work on it's SEO.
+
+The modifications made for optimization where based on the results of the Lighthouse audit and the accessibility check using the Wave extension.
+
 ### The challenge
 
-Users should be able to:
-
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Overall optimization of the site for both performance and SEO.
+- Implementation of local SEO using Schema.org.
+- Addition of metas for social networks.
+- Modifications related to site accessibility.
+- Production of an optimization report detailing all actions and their impact.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/preview.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
