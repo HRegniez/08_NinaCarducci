@@ -45,9 +45,11 @@ The modifications made for optimization where based on the results of the Lighth
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- How to optimize images for websites.
+  
+- How to optimize the scripts for improved loading times.
 
-To see how you can add code snippets, see below:
+- 
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
