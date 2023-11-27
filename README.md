@@ -2,6 +2,8 @@
 
 Artist's Website where te task was to improve loading time and it's SEO. This project is part of my OpenClassroom's course to become a web developer.
 
+The modifications made for optimization where based on the results of the Lighthouse audit and the accessibility check using the Wave extension.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -18,10 +20,6 @@ Artist's Website where te task was to improve loading time and it's SEO. This pr
 
 ## Overview
 
-In this project I was tasked to improve the artist Nina Carducci's weeb-site. Her web-site had important loading times and needed work on it's SEO.
-
-The modifications made for optimization where based on the results of the Lighthouse audit and the accessibility check using the Wave extension.
-
 ### The challenge
 
 - Overall optimization of the site for both performance and SEO.
@@ -34,18 +32,9 @@ The modifications made for optimization where based on the results of the Lighth
 
 ![](./screenshot/preview.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Nina Carducci]([https://your-live-site-url.com](https://hregniez.github.io/08_NinaCarducci/))
 
 ## My process
 
