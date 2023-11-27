@@ -34,7 +34,7 @@ The modifications made for optimization where based on the results of the Lighth
 
 ### Links
 
-- Live Site URL: Nina Carducci(https://hregniez.github.io/08_NinaCarducci/)
+- Live Site URL: [Nina Carducci](https://hregniez.github.io/08_NinaCarducci/)
 
 ## My process
 
