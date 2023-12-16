@@ -12,7 +12,6 @@ The modifications made for optimization where based on the results of the Lighth
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -43,35 +42,6 @@ The modifications made for optimization where based on the results of the Lighth
 - Bootstrap
 - JQuery
 
-### What I learned
-
-- How to optimize images for websites.
-  
-- How to optimize the scripts for improved loading times.
-
-- 
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
+- Website - [hregniez](hregniez.com)
